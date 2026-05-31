@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1780225808687,
+    "userId": 1,
+    "courseId": 1,
+    "progress": 100
+  },
+  {
+    "id": 1780225925407,
+    "userId": 1,
+    "courseId": 3,
+    "progress": 100
+  },
+  {
+    "id": 1780228956594,
+    "userId": 1,
+    "courseId": 1,
+    "progress": 100
+  },
+  {
+    "id": 1780228978970,
+    "userId": 1,
+    "courseId": 2,
+    "progress": 75
+  },
+  {
+    "id": 1780228982586,
+    "userId": 1,
+    "courseId": 3,
+    "progress": 50
+  },
+  {
+    "id": 1780228997222,
+    "userId": 1,
+    "courseId": 1,
+    "progress": 50
+  },
+  {
+    "id": 1780232456179,
+    "userId": 1,
+    "courseId": 3,
+    "progress": 50
+  },
+  {
+    "id": 1780232858195,
+    "userId": 1,
+    "courseId": 4,
+    "progress": 0
+  }
+]

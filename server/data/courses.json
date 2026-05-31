@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "React JS Masterclass",
+    "category": "Web Development",
+    "tags": ["React", "Frontend"]
+  },
+  {
+    "id": 2,
+    "title": "Machine Learning Basics",
+    "category": "AI",
+    "tags": ["Python", "ML"]
+  },
+  {
+    "id": 3,
+    "title": "Data Science Bootcamp",
+    "category": "Data Science",
+    "tags": ["Python", "Pandas"]
+  },
+  {
+    "id": 4,
+    "title": "Cyber Security Fundamentals",
+    "category": "Cybersecurity",
+    "tags": ["Security", "Network"]
+  }
+]
